@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Spring Intensive 1 the focus is on design and user testing as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with each student pitching their product to their classmates on the last day.
+Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Spring Intensive 1 the focus is on user testing, shipping products as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with a Demo Night in which each student pitches their product to their classmates, industry professionals and recruiters.
 
 **INT 1.3 Spring Intensive 1** is for Juniors while **INT 2.3 Spring Intensive 2** is for Seniors. Students will work on similar skills with different evaluation criteria and expectations.
 
@@ -24,7 +24,7 @@ Class Sessions:  10 classes
 
 Students by the end of the course will be able to ...
 
-1. Build from scratch an app or product in your language concentration
+1. Build and ship an app or product in your language concentration
 1. Explain the value of your product via a product pitch
 1. Provide and receive constructive feedback on your app idea, designs, and code
 
@@ -42,7 +42,7 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 
 **Note:**
 
-- The Public Speaking class is being offered in two different sections. Please only attend *one section*
+- The Public Speaking class is being offered in two different sections. Please only attend the *one section* that is assigned to you
 - Please check the College Calendar for office hour times
 
 
@@ -79,7 +79,7 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 
 - [Spring Intensive Project](Assignments/Project-Requirements.md)
 
-**All projects require a minimum of 10 commits, and must take place throughout the entirety of the course**
+**All projects require a minimum of 10 commits, and must take place throughout the entirety of the intensive**
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
