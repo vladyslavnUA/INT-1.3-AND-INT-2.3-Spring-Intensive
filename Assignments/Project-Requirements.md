@@ -5,15 +5,18 @@ Select **one** of these four options for your intensive project:
 3. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th.
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. To choose this option, **EACH TEAMMATE must fill out this proposal and get it approved by a staff member by Tuesday at 3pm** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable.
 
+Students with <3 portfolio projects should work on a new project. Things that do not count as a portfolio project: class contractor project, projects with code that is not live and functional.
+
 ## Product Submission
-Product submission happens during Product Pitches on Friday from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form to you input your link to your app / code on Github.
+Product submission happens during Product Pitches on Monday at 12:00pm, before the pitches that take place from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form to you input your link to your app / code on Github.
 
 ## Product Evaluation
-- Juniors: Product: must score above a 3 on the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
+Juniors
+- Product: must score above a 3 on the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
  - Due Friday at 3pm  
 - Product Pitch: must score above a 3 on the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview) (on page 2)
  - Due Friday at 3pm
-
+Seniors
 
 ### Tips
 - **Product idea choice** - The project can be building a product off of your idea from SPD class, or it can be a new product. It cannot simply be a repurposing of a contractor project that was done in a technical course.
