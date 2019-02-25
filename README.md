@@ -101,9 +101,9 @@ To pass this course you must meet the following requirements:
 
 - Attend all class sessions
 - Meet the project requirements using the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
- - Juniors must score at least a 3, Seniors must score at least a 4.
-- Present your project using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
- - Juniors must score at least a 3, Seniors must score at least a 4.
+ - Juniors must score at least a 2.5, Seniors must score at least a 3.
+- Present your pitch using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
+ - Juniors must score at least a 2.5, Seniors must score at least a 3.
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
