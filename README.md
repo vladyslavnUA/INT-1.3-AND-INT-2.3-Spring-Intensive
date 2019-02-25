@@ -55,10 +55,10 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 | **Wednesday, 3/20**  | 10:00 - 10:30am | [Amazing Keynote Speeches]                            |
 |                      | 10:30 - 11:20am | [Public Speaking block 1: intonation, body language, and expression]    |
 |                      | 11:30 - 12:20pm | [Public Speaking block 2: intonation, body language, and expression]    |
-| **Thursday, 3/21**   | 10:00 - 10:50am | [User Testing Part 1]                                 |
+| **Thursday, 3/21**   | 10:00 - 10:50am | [Ship All The Things]                                 |
 |                      | 03:00 - 04:50pm | [Intensive Product Pitches Round 1]                   |
 | **Friday, 3/22**     |                 | No Intensive Classes                                  |
-| **Monday, 3/25**     | 10:00 - 10:50am | [User Testing Part 2]                                 |
+| **Monday, 3/25**     | 10:00 - 10:50am | [User Testing Part 1]                                 |
 |                      | 03:00 - 04:50pm | [Intensive Product Pitches Round 2]                   |
 | **Tuesday, 3/26**    | 11:00 - 11:50am | [Pitch Finalist Practice & Voting]                    |
 |                      | 06:00 - 09:00pm | **Demo Night**                                        |
@@ -69,9 +69,9 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 [Amazing Keynote Speeches]: Lessons/04-amazing-keynote-speeches.md
 [Public Speaking block 1: intonation, body language, and expression]: Lessons/05-public-speaking.md
 [Public Speaking block 2: intonation, body language, and expression]: Lessons/05-public-speaking.md
-[User Testing Part 1]: Lessons/06-user-testing-1.md
+[Ship All The Things]: Lessons/06-user-testing-1.md
 [Intensive Product Pitches Round 1]: Lessons/07-product-pitches-1.md
-[User Testing Part 2]: Lessons/08-user-testing-2.md
+[User Testing Part 1]: Lessons/08-user-testing-2.md
 [Intensive Product Pitches Round 2]: Lessons/09-product-pitches-2.md
 [Pitch Finalist Practice & Voting]: Lessons/10-pitch-finalist.md
 
