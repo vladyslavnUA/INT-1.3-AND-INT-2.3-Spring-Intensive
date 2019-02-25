@@ -7,7 +7,7 @@ Select **one** of these four options for your intensive project:
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
       - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval)** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable.
 
-Students with <3 portfolio projects should work on a new project. Things that do not count as a portfolio project include: class contractor project, projects with code that is not live and functional.
+Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
 
 ## Product Submission
 Product submission happens before Product Pitches on Monday. Pitches that take place that Monday from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form for you to you input your link to your app / code on Github.
