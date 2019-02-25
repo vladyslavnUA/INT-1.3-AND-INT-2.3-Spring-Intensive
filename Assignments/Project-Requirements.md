@@ -16,19 +16,19 @@ Product submission happens before Product Pitches on Monday. Pitches that take p
 
 ### Juniors
 - Product: must score above a 2.5 on the [Portfolio Product Rubric](https://docs.google.com/document/u/1/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/preview)
-            - Due Monday at 3:00pm
-            - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
+  - Due Monday at 3:00pm
+  - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
 - Product Pitch: must score above a 2.5 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) (on page 2)
-            - Draft Thursday at 3:00pm
-            - Final due Monday at 3:00pm
+  - Draft Thursday at 3:00pm
+  - Final due Monday at 3:00pm
 
 ### Seniors
 - Product: must score above a 3 on the [Portfolio Product Rubric](https://docs.google.com/document/u/1/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/preview)
-            - Due Monday at 3:00pm
-            - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
+  - Due Monday at 3:00pm
+  - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
 - Product Pitch: must score above a 3 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) (on page 2)
-            - Draft Thursday at 3:00pm
-            - Final due Monday at 3:00pm
+  - Draft Thursday at 3:00pm
+  - Final due Monday at 3:00pm
 
 ### Tips
 - **Product idea choice** - The project can be building a product off of your idea from SPD class, or it can be a new product. It cannot simply be a repurposing of a contractor project that was done in a technical course.
