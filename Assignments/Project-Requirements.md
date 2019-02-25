@@ -1,14 +1,16 @@
 ## Project Requirements
 Select **one** of these four options for your intensive project:
 1. **New project, solo** - start a new project from scratch. Project github repo must be started before March 8th. Evaluation below
-2. **Old project, solo** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. To choose this option, **you must fill out this proposal and get it approved by a staff member by Tuesday at 3pm** in order to choose this option. 
-3. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th.
-4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. To choose this option, **EACH TEAMMATE must fill out this proposal and get it approved by a staff member by Tuesday at 3pm** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable.
+2. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th.
+3. **Old project, solo** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
+ - To choose this option, **you must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Tuesday at 3pm** in order to choose this option. 
+4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
+ - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Tuesday at 3pm** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable.
 
-Students with <3 portfolio projects should work on a new project. Things that do not count as a portfolio project: class contractor project, projects with code that is not live and functional.
+Students with <3 portfolio projects should work on a new project. Things that do not count as a portfolio project include: class contractor project, projects with code that is not live and functional.
 
 ## Product Submission
-Product submission happens during Product Pitches on Monday at 12:00pm, before the pitches that take place from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form to you input your link to your app / code on Github.
+Product submission happens during Product Pitches on Monday at 12:00pm, pitches that take place that Monday from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form to you input your link to your app / code on Github.
 
 ## Product Evaluation
 Juniors
