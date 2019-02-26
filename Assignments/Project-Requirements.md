@@ -7,6 +7,11 @@ Select **one** of these four options for your intensive project:
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
       - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval)** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
 
+Opening speech - reminder every day Make people feel like it's a projec they are proud of - all recruiters / proud ... not requirements/ Recruiters, in slack channel; parent way to improve x y z
+Technical advisor
+counting - 5 commits
+lock-in
+Formal - lockin - informal (joy as a resource, snack day)
 Must not use tutorial code
 Proud of
 Check early
