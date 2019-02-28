@@ -28,7 +28,7 @@ Students by the end of the course will be able to ...
 1. Explain the value of your product via a product pitch
 1. Provide and receive constructive feedback on your app idea, designs, and code
 
-## Schedule
+## [Schedule](https://calendar.google.com/calendar/b/1/r/week/2019/3/28?tab=mc)
 
 **Course Dates:** Monday, March 18 – Tuesday, March 26 (7 days)
 
@@ -43,7 +43,7 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 **Note:**
 
 - The Public Speaking class is being offered in two different sections. Please only attend the *one section* that is assigned to you
-- Please check the College Calendar for office hour times
+- Please check the [College Calendar](https://calendar.google.com/calendar/b/1/r/week/2019/3/28?tab=mc) for office hour times
 
 
 
