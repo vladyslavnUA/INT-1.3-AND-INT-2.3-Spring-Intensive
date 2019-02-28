@@ -47,33 +47,37 @@ Attendance is required from 9:30 to 5:30 every day including the following non-c
 
 
 
-|          Date        |    Time         |                 Topics                    |
-:---------------------:|:---------------:|:-----------------------------------------:|
-| **Monday, 3/18**     | 10:00 - 10:50am | [Intensive Kickoff: Trents in Tech & Ideation]        |
-|                      | 11:00 - 11:50am | [Team Formation]                                      |
-| **Tuesday, 3/19**    | 10:00 - 10:50am | [Scoping your product effectively]                    |
-| **Wednesday, 3/20**  | 10:00 - 10:30am | [Amazing Keynote Speeches]                            |
-|                      | 10:30 - 11:20am | [Public Speaking block 1: intonation, body language, and expression]    |
-|                      | 11:30 - 12:20pm | [Public Speaking block 2: intonation, body language, and expression]    |
-| **Thursday, 3/21**   | 10:00 - 10:50am | [Ship All The Things]                                 |
-|                      | 03:00 - 04:50pm | [Intensive Product Pitches Round 1]                   |
-| **Friday, 3/22**     |                 | No Intensive Classes                                  |
-| **Monday, 3/25**     | 10:00 - 10:50am | [User Testing Part 1]                                 |
-|                      | 03:00 - 04:50pm | [Intensive Product Pitches Round 2]                   |
-| **Tuesday, 3/26**    | 11:00 - 11:50am | [Pitch Finalist Practice & Voting]                    |
-|                      | 06:00 - 09:00pm | **Demo Night**                                        |
+|          Date        |                 Topics                    |
+:---------------------:|:-----------------------------------------:|
+| **Monday, 3/18**     |  [Intensive Kickoff: Trends in Tech & Ideation]        |
+|                      |  [Proposal Kickoff]                                   |
+|                      | [Team Formation]                                      |
+|                      |  [REQUIRED: Proposal Approval]                        |
+| **Tuesday, 3/19**    | [Scoping your product effectively]                    |
+| **Wednesday, 3/20**  | [Amazing Keynote Speeches]                            |
+|                      | [Public Speaking block 1: intonation, body language, and expression]    |
+|                      | [Public Speaking block 2: intonation, body language, and expression]    |
+| **Thursday, 3/21**   | [Ship All The Things]                                 |
+|                      | [Intensive Product Pitches Round 1]                   |
+| **Friday, 3/22**     | No Intensive Classes                                  |
+| **Monday, 3/25**     | [User Testing Part 1]                                 |
+|                      | [Intensive Product Pitches Round 2]                   |
+| **Tuesday, 3/26**    | [Pitch Finalist Practice & Voting]                    |
+|                      | **Demo Night**                                        |
 
-[Intensive Kickoff: Trents in Tech & Ideation]: Lessons/01-intensive-kickoff.md
+[Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
 [Team Formation]: Lessons/02-team-formation.md
 [Scoping your product effectively]: Lessons/03-scoping.md
 [Amazing Keynote Speeches]: Lessons/04-amazing-keynote-speeches.md
 [Public Speaking block 1: intonation, body language, and expression]: Lessons/05-public-speaking.md
 [Public Speaking block 2: intonation, body language, and expression]: Lessons/05-public-speaking.md
-[Ship All The Things]: Lessons/06-user-testing-1.md
+[Ship All The Things]: Lessons/06-ship-all-the-things.md
 [Intensive Product Pitches Round 1]: Lessons/07-product-pitches-1.md
 [User Testing Part 1]: Lessons/08-user-testing-2.md
 [Intensive Product Pitches Round 2]: Lessons/09-product-pitches-2.md
 [Pitch Finalist Practice & Voting]: Lessons/10-pitch-finalist.md
+[Proposal Kickoff]: Lessons/11-proposal-kickoff.md
+[REQUIRED: Proposal Approval]: Lessons/12-required-proposal-approval.md
 
 ### Projects
 
