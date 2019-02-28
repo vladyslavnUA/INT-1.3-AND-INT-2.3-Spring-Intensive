@@ -1,22 +1,13 @@
 ## Project Requirements
 Select **one** of these four options for your intensive project:
-1. **New project, solo** - start a new project from scratch. Project github repo must be started before March 8th. Evaluation below
+1. **New project, solo** - start a new project from scratch. Project github repo must be started before March 8th. Evaluation below.
+      - To choose this option, **you must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval** in order to choose this option. Teams cannot be more than 5 engineers.
 2. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th.
+      - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval)** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
 3. **Old project, solo** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
       - To choose this option, **you must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval** in order to choose this option. Teams cannot be more than 5 engineers.
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
       - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.gpk1osyprrjo) and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval)** in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
-
-Opening speech - reminder every day Make people feel like it's a projec they are proud of - all recruiters / proud ... not requirements/ Recruiters, in slack channel; parent way to improve x y z
-Technical advisor
-counting - 5 commits
-lock-in
-Formal - lockin - informal (joy as a resource, snack day)
-Must not use tutorial code
-Proud of
-Check early
-minimum requirements: 
-Examples that meet that we are proud of and here is why - testing, code, features (Examples from each track)
 
 Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
 
@@ -29,7 +20,7 @@ Product submission happens before Product Pitches on Monday. Pitches that take p
 - Product: must score above a 2.5 on the [Portfolio Product Rubric](https://docs.google.com/document/u/1/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/preview)
   - Due Monday at 3:00pm
   - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
-- Product Pitch: must score above a 2.5 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) (on page 2)
+- Product Pitch: must score above a 2.5 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
   - Draft Thursday at 3:00pm
   - Final due Monday at 3:00pm
 
@@ -37,7 +28,7 @@ Product submission happens before Product Pitches on Monday. Pitches that take p
 - Product: must score above a 3 on the [Portfolio Product Rubric](https://docs.google.com/document/u/1/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/preview)
   - Due Monday at 3:00pm
   - Product **must be live and functional** to earn credit. Mobile products must be on [test flight](https://developer.apple.com/testflight/) or live.
-- Product Pitch: must score above a 3 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit) (on page 2)
+- Product Pitch: must score above a 3 on the [Pitch Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
   - Draft Thursday at 3:00pm
   - Final due Monday at 3:00pm
 
