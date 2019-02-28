@@ -9,13 +9,17 @@ Select **one** of these four options for your intensive project:
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
       - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) and get it approved by a staff member** by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval) in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
 
+**All students** must log their daily accomplishments in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0).
+
+Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
+
 ### Presentation requirements:
  - **New project, solo** - 2.5-3 minute pitch, minimumn of three slides: problem, current solution, my solution, demo
  - **New project, team** - 2.5-3 minute pitch, minimumn of three slides: problem, current solution, my solution, demo
  - **Old project, solo** - 2.5 min * # of engineers, [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
  - **Old project, team** - 2.5 min * # of engineers, [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
 
-Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
+
 
 ## Product & Presentation Submission
 Product submission happens before Product Pitches on Monday. Pitches that take place that Monday from 3:00-5:00pm - in small groups, each student will present their product and check in with an instructor or staff member to get approval. We’ll also send a form for you to you input your link to your app / code on Github.
