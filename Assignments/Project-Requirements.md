@@ -1,13 +1,18 @@
+# Spring Intensive Project & Presentation
+## Objectives
+1. Design, code, and ship your most ambitious portfolio project yet
+2. Deliver a high quality product presentation
+3. Use resources and staff support to unblock yourself
+
 ## Product Requirements
 Select **one** of these four options for your intensive project:
 1. **New project, solo** - start a new project from scratch. Project github repo must be started after March 8th. Evaluation criteria below.
-      - To choose this option, **you must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) and get it approved by a staff member** by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval in order to choose this option).
-2. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th.
-      - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) and get it approved by a staff member** by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval) in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
+2. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th. Teams cannot be more than 5 engineers. *EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) for their own individual contributions* to the project. You do NOT just make one proposal for the whole team.
 3. **Old project, solo** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
-      - To choose this option, **you must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) and get it approved by a staff member** by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval in order to choose this option. 
-4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
-      - To choose this option, **EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) and get it approved by a staff member** by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval) in order to choose this option. Each teammate will have an individual portion of the project they are accountable for, instead of having just one deliverable. Teams cannot be more than 5 engineers.
+4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. Teams cannot be more than 5 engineers.
+
+Proposal approval: 
+**All students** must fill out their intensive proposal for your individual work and get it approved by a staff member by Monday 3/18 at 4pm (you've been invited to a class session where you will get approval).
 
 **All students** must log their daily accomplishments in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0).
 
@@ -24,16 +29,17 @@ Product submission happens before Product Pitches on Monday. Pitches that take p
 To pass, projects must ...
 
 ### Part 1: Product Live and Log of Accomplishments ...
- - **Be Live and functional on Web or Testflight** (mobile students screenshot submission screen)
- - **Log all accomplishments on all days in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0)**
+ - **Be Live** on Web or Testflight (mobile students screenshot submission screen) and **functional** 
+ - **Log all accomplishments** on all days in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0)**
 
-### Part 2: Product Pass Rubric and Proposal ..
-New Projects ([Spring Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit))
- - Junior SOLO - must score an average above a 2.5 on the Sprint Intensive Product Rubric above
- - Junior TEAM - must score an average about a 3 on the Sprint Intensive Product Rubric above
- - Seniors SOLO - most score an average above a 3 on the on the Sprint Intensive Product Rubric above
- - Senior TEAM - must score an average of 3.5 on the on the Sprint Intensive Product Rubric above
-Old projects & TEAM projects
+### Part 2: Product Pass Rubric and 2/3 Objectives  ..
+**New Projects**
+ - Junior SOLO - must score an average above a 2.5 on the ([Spring Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit))
+ - Junior TEAM - must score an average about a 3 on the ([Spring Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit))
+ - Seniors SOLO - most score an average above a 3 on the on the ([Spring Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit))
+ - Senior TEAM - must score an average of 3.5 on the on the ([Spring Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit))
+
+**Old projects & TEAM projects**
  - Each individual complete ⅔ of the objectives from their proposal - reminder that all students filled out their proposal ([template](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit) and got it approved on the first Monday of the intensive.
 
 ### Part 3: Presentation requirements:
