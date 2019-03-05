@@ -30,6 +30,7 @@ Submit all material via the Spring Intensive Tracker. We’ll also send a form f
 Pitch submission: 
   - Draft Presentation on Thursday at 3:00pm, delivered in small groups
   - Final Presentation on Monday at 3:00pm, delivered in small groups
+
 Product Submission:
   - Final Monday at 3:00pm (grading to occur Tuesday afternoon @ 12pm)
 
