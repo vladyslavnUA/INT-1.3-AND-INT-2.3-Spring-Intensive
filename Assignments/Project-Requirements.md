@@ -5,20 +5,23 @@
 3. Use resources and staff support to unblock yourself
 
 ## Product Requirements
-Product Selection:
-__**FIRST**__, Select **one** of these four options for your intensive project:
+__**FIRST**__ **Product Selection:**
+
+Select **one** of these four options for your intensive project:
 1. **New project, solo** - start a new project from scratch. Project github repo must be started after March 8th. Evaluation criteria below.
 2. **New project, team** - start a new project with a team of engineers. Project github repo must be started before March 8th. Teams cannot be more than 5 engineers. *EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) for their own individual contributions* to the project. You do NOT just make one proposal for the whole team.
 3. **Old project, solo** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. 
 4. **Old project, team** - continue building an old project into an even better version. This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project. Teams cannot be more than 5 engineers.
 
-Proposal approval: 
-__**SECOND**__, **All students** must fill out their **individual** intensive proposal (each teammember must fill out a proposal for their own unique contributions) and get it approved by a staff member by Monday 3/18 at 4pm -- you've been invited to a class session at that time where you will get approval.
+__**SECOND**__ **Proposal approval:**
 
-Daily Accomplishment Log:
-__**THIRD**__, **All students** must log their daily accomplishments in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0).
+**All students** must fill out their **individual** intensive proposal (each teammember must fill out a proposal for their own unique contributions) and get it approved by a staff member by Monday 3/18 at 4pm -- you've been invited to a class session at that time where you will get approval.
 
-Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
+__**THIRD**__ **Daily Accomplishment Log:**
+
+**All students** must log their daily accomplishments in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0).
+
+- It is recommended you work on a new portfolio items if you have 2 or less portfolio items. Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
 
 ## Submission of Product & Pitch 
 
