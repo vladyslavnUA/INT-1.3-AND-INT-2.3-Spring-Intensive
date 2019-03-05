@@ -21,7 +21,7 @@ __**THIRD**__ **Daily Accomplishment Log:**
 
 **All students** must log their daily accomplishments in the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0).
 
-- It is recommended you work on a new portfolio items if you have 2 or less portfolio items. Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
+Note: It is recommended you work on a new portfolio items if you have 2 or less portfolio items. Things that do not count as a portfolio project include: class contractor project, projects with code that is not functional.
 
 ## Submission of Product & Pitch 
 
