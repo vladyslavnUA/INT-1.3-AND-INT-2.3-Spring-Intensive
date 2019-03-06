@@ -1,8 +1,17 @@
 # Spring Intensive Project & Presentation
+
 ## Objectives
 1. Design, code, and ship your most ambitious portfolio project yet
 2. Deliver a high quality product presentation
 3. Use resources and staff support to unblock yourself
+
+## Schedule of Deliverables
+| **Date/Time**                     | **Deliverable** |
+| --------------------------------- | ------------------------------------- |
+| Monday, 3/18, 4pm                 | Project Proposal Submitted      |
+| Thursday, 3/21, 3pm               | Draft Pitch Submitted      |
+| Monday, 3/25, 3pm                 | Final Pitch Submitted      |
+| Monday, 3/25, 3pm                 | Final Product Submitted      |
 
 ## Product Requirements
 ### 1: Product Selection
@@ -51,7 +60,7 @@ Pitch submission:
   - Final Presentation on **Monday at 3:00pm**, delivered in small groups
 
 Product Submission:
-  - Final **Monday at 3:00pm** (grading to occur Tuesday afternoon @ 12pm)
+  - **Monday at 3:00pm** (grading to occur Tuesday afternoon @ 12pm)
 
 ## Evaluation of Product & Pitch
 
