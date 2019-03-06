@@ -9,8 +9,8 @@
 | **Date/Time**                     | **Deliverable** |
 | --------------------------------- | ------------------------------------- |
 | Monday, 3/18, 4pm                 | Project Proposal Submitted      |
-| Thursday, 3/21, 3pm               | Draft Pitch Submitted      |
-| Monday, 3/25, 3pm                 | Final Pitch Submitted      |
+| Thursday, 3/21, 3pm               | Draft Pitch Delivered      |
+| Monday, 3/25, 3pm                 | Final Pitch Delivered      |
 | Monday, 3/25, 3pm                 | Final Product Submitted      |
 
 ## Product Requirements
