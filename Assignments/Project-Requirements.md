@@ -93,4 +93,5 @@ To pass, students must ...
 - **Product idea choice** - The project can be building a product off of your idea from SPD class, or it can be a new product. It cannot simply be a repurposing of a contractor project that was done in a technical course.
 - **Finish the product Monday before demo night, debug and polish on Tuesday**
 - **Scope the project small** - Remember not to over scope your first iteration. It should be a "skateboard" version of your idea, so simple that it barely meets your user need - check out these [class slides on scoping your project](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/preview?slide=id.p) for reference.  In the future, we'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/preview) to evaluate and level-up your shipped products.
+- **Build off your old code** - even if you are starting a new project, feel free to clone an old repo of yours - from a project or tutorial - and use it as a solid foundation on which to build your next project.
 - You can help your peers debug their code.
