@@ -26,7 +26,7 @@ Select **one** of these four options for your intensive project:
 **2. New Project, Team**
 - Start a new project with a team of engineers.
 - Project github repo must be **started before March 8th**.
-- Teams cannot be more than 5 engineers.
+- Teams cannot be more than 4 engineers.
 - *EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) for their own individual contributions* to the project. You do NOT just make one proposal for the whole team.
 
 **3. Old Project, Solo**
@@ -37,7 +37,7 @@ Select **one** of these four options for your intensive project:
 
 - Continue building an old project into an even better version.
 - This can be a project you made in SPD, a previous intensive, or a susbstantial extension on a class project.
-- Teams *CANNOT* be more than 5 engineers.
+- Teams *CANNOT* be more than 4 engineers.
 - *EACH TEAMMATE must fill out [this proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit#heading=h.rwkd8l4c90sq) for their own individual contributions* to the project. You do NOT just make one proposal for the whole team.
 
 ### 2: Proposal Approval
