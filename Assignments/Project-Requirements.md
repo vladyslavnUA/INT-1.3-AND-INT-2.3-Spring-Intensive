@@ -54,7 +54,7 @@ Select **one** of these four options for your intensive project:
 
 ## Submission of Product & Pitch 
 
-Submit all material via the [Spring Intensive Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0). We’ll also send a form for you to input a link to your app / code on Github.
+Submit all material via the Spring Intensive [submission form](https://docs.google.com/forms/d/e/1FAIpQLScR8POWOd5pvtX_7SkqViy7VmQMJ9nJ2b0uzfDqgoBALM5MTA/viewform?usp=sf_link). We’ll also send a form for you to input a link to your app / code on Github.
 
 Pitch submission: 
   - Draft Presentation on **Thursday at 3:00pm**, delivered in small groups
