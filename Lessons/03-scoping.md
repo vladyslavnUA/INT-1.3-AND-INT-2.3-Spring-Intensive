@@ -4,15 +4,15 @@
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Agenda/Learning Outcomes                |
-| 0:05        | 0:05      | Scoping Prefernces I Actvity                |
-| 0:10        | 0:03      | Scoping Review                |
-| 0:13        | 0:05      | The Elite's Skateboard Activity                |
-| 0:18        | 0:05      | The Elite's Skateboard TT                |
-| 0:23        | 0:05      | Scoping Prefernces II Actvity                |
-| 0:28        | 0:03      | Building an MVP TT                |
-| 0:31        | 0:15      | Feature Writing Activity                |
-| 0:46        | 0:03      | Mission Statement TT                |
+| 0:00        | 0:01      | Agenda/Learning Outcomes                |
+| 0:01        | 0:01      | Warmup Poll                |
+| 0:02        | 0:03      | Scoping Review                |
+| 0:05        | 0:05      | The Elite's Skateboard Activity                |
+| 0:10        | 0:05      | The Elite's Skateboard TT                |
+| 0:15        | 0:10      | MVP Prioritization                |
+| 0:25        | 0:05      | Building an MVP TT                |
+| 0:30        | 0:15      | Feature Writing Activity                |
+| 0:45        | 0:04      | Mission Statement TT                |
 | 0:49        | 0:10      | Mission Statement Writing Activity                |
 | 0:59        | 0:01      | Summary                |
 | TOTAL       | 1:00      |                           |
@@ -23,7 +23,7 @@ Getting overwhelmed by features or the scale of a project is a very real issue t
 
 By being able to scope your product and define what the MVP is, it will be easier to build out and continue to iterate and improve upon going forward. This also allows for an easier time explaining the product if you are focusing on only its core features. You should be able to easily explain your product to anyone in a concicse manner, and scoping will help you achieve that!
 
-## Agenda/Learning Outcomes (5 min)
+## Agenda/Learning Outcomes (1 min)
 
 ### Learning Outcomes
 
@@ -44,14 +44,13 @@ By the end of this session, students should be able to…
 - Mission Statement Writing Activity
 
 
-## Scoping Preferences I (5 min)
+## Slack Poll (1 min)
 
-Take a sticky note or piece of paper and answer the following statements:
+Use Slack to poll the class the following question: “What is the hardest part of scoping for you?”
 
-- “It’s easy for me to scope product features when…”
-- “It’s hard for me to scope product features when…”
-
-**Hold on to these for now, we’ll revisit them later**
+1. “Too many features, can’t complete them all in time” 
+1. “Not enough features, product falls short” 
+1. “Uncertainty on what to build”
 
 
 ## Scoping Review (3 min)
@@ -70,11 +69,14 @@ Take a sticky note or piece of paper and answer the following statements:
 - Provide three examples of big tech companies and what their MVP was
 - Showcase that everyone starts out with the only the minimum needed to validate their idea
 
-## Scoping Preferences Activity II  (5 min)
+## MVP Prioritziation  (10 min)
 
-Discuss your scoping preferences with your team, and establish some ground rules for scoping your product
+With your group/team, begin filling out the Scoping MVP worksheet:
+http://make.sc/scoping-worksheet
 
-## Building an MVP TT (3 min)
+**Stretch Challenge:** Finish the worksheet and get instructor/TA feedback!
+
+## Building an MVP TT (5 min)
 
 Questions to ask yourself:
 
@@ -98,7 +100,7 @@ Get with your team and come up with one MVP feature for your product and make su
 - Resources needed (i.e. TA/Instructor help, learning a new framework, etc.)
 - **Add this to the tracker when you’re done**
 
-## Mission Statement TT (3 min)
+## Mission Statement TT (4 min)
 
 - A mission statement is a concise statement on what your product is, who it is for, and why it benefits users to use your product
 - Ensures you can concisely explain your product
