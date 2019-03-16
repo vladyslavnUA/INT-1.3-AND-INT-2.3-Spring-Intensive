@@ -1,6 +1,6 @@
-# Lesson Title
+# Proposal Kickoff
 
-## Minute-by-Minute [OPTIONAL]
+## Minute-by-Minute
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
