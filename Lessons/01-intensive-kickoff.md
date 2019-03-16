@@ -1,66 +1,16 @@
-# Lesson Title
+# Intensive Kickoff!
 
 ## Minute-by-Minute [OPTIONAL]
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
 | 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+| 0:05        | 0:15      | [Intensive Overview](https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.g54b9267fe3_0_96) |
+| 0:20        | 0:45      | Presentation on Trends in Tech       |
 
-## Why you should know this or industry application (optional) (5 min)
-
-Explain why students should care to learn the material presented in this class.
 
 ## Learning Objectives (5 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
-
-## Initial Exercise (15 min)
-
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
-
-## Overview/TT I (20 min)
-
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
-
-## In Class Activity I (30 min)
-
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
-
-## Overview/TT II (optional) (20 min)
-
-## In Class Activity II (optional) (30 min)
-
-## Wrap Up (5 min)
-
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
-
-## Additional Resources
-
-1. Links to additional readings and videos
+1. Understand the purpose 
+1. Visualize how you can excell at the various deliverables of the intensive
+1. Feel prepared to do a great job during the intensive
