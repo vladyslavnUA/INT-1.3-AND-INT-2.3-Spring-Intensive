@@ -1,6 +1,6 @@
 # Intensive Kickoff!
 
-## Minute-by-Minute [OPTIONAL]
+## Minute-by-Minute
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
@@ -14,3 +14,9 @@
 1. Understand the purpose 
 1. Visualize how you can excell at the various deliverables of the intensive
 1. Feel prepared to do a great job during the intensive
+
+## Activities
+
+1. Set up your row on the intensive tracker
+1. Fill out pre-intenisve accomplishments
+1. Checkout with Dan, Megan, or Caroline to ensure you've completed all the session requirements
