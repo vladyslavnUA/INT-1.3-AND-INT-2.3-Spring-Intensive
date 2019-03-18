@@ -6,7 +6,7 @@
 | ----------- | --------- | ------------------------- |
 | 0:00        | 0:05      | Objectives                |
 | 0:05        | 0:15      | [Intensive Overview](https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.g54b9267fe3_0_96) |
-| 0:20        | 0:45      | Presentation on Trends in Tech       |
+| 0:20        | 0:45      | [Presentation on Trends in Tech](https://drive.google.com/file/d/1-5LHSeAuT7fA6jrb0-KELKxOtIbw7Z03/view?usp=sharing)       |
 
 
 ## Learning Objectives (5 min)
