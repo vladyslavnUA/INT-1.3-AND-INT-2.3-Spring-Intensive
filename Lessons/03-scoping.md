@@ -4,7 +4,7 @@
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
-| 0:00        | 0:01      | Agenda/Learning Outcomes                |
+| 0:00        | 0:01      | Housekeeping/Agenda/Learning Outcomes                |
 | 0:01        | 0:01      | Warmup Poll                |
 | 0:02        | 0:03      | Scoping Review                |
 | 0:05        | 0:05      | The Elite's Skateboard Activity                |
@@ -23,7 +23,15 @@ Getting overwhelmed by features or the scale of a project is a very real issue t
 
 By being able to scope your product and define what the MVP is, it will be easier to build out and continue to iterate and improve upon going forward. This also allows for an easier time explaining the product if you are focusing on only its core features. You should be able to easily explain your product to anyone in a concicse manner, and scoping will help you achieve that!
 
-## Agenda/Learning Outcomes (1 min)
+## Housekeeping/Agenda/Learning Outcomes (1 min)
+
+### Housekeeping
+
+Update [Spring Intensive Tracker:](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0)
+
+1. Ensure columns B-L are filled
+1. Log your accomplishments from yesterday
+1. Mark Attendance (in seperate attendance tab)
 
 ### Learning Outcomes
 
