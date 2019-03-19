@@ -1,6 +1,6 @@
 # INT-1.3 and INT-2.3 Spring Intensive
 
-## Course Description
+## Course Description ([Course Tracker](https://docs.google.com/spreadsheets/d/15EY3XHtl9sFqwbSW_EmUFhiQvBLQfpRoFxQFO1KmnOM/edit#gid=0))
 
 Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Spring Intensive 1 the focus is on user testing, shipping products as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with a Demo Night in which each student pitches their product to their classmates, industry professionals and recruiters.
 
