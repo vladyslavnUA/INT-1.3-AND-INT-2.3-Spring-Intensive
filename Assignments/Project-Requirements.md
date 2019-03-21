@@ -83,10 +83,10 @@ To pass, students must ...
  - Reminder that all students filled out their proposal ([template](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit) and got it approved on the *first Monday of the intensive.*
 
 ### 3: Adhere to the Following Presentation Requirements:
- - **New project, solo** - 2.5-3 minute pitch, scores above a 2.5 on the [Presentation Rubric](make.sc/presentation-rubric) minimumn of three slides: problem, current solution, my solution, demo
- - **New project, team** - 2.5-3 minute pitch, scores above a 3 on the [Presentation Rubric](make.sc/presentation-rubric) minimumn of three slides: problem, current solution, my solution, demo
- - **Old project, solo** - 2.5 min multipied by the # of engineers, scores above a 2.5 on the [Presentation Rubric](make.sc/presentation-rubric) minimumn of three slides: problem, current solution, [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
- - **Old project, team** - 2.5 min multipied by the # of engineers, scores above a 3 on the [Presentation Rubric](make.sc/presentation-rubric), [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
+ - **New project, solo** - 2.5-3 minute pitch, scores above a 2.5 on the [Presentation Rubric](http://make.sc/presentation-rubric) minimumn of three slides: problem, current solution, my solution, demo
+ - **New project, team** - 2.5-3 minute pitch, scores above a 3 on the [Presentation Rubric](http://make.sc/presentation-rubric) minimumn of three slides: problem, current solution, my solution, demo
+ - **Old project, solo** - 2.5 min multipied by the # of engineers, scores above a 2.5 on the [Presentation Rubric](http://make.sc/presentation-rubric) minimumn of three slides: problem, current solution, [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
+ - **Old project, team** - 2.5 min multipied by the # of engineers, scores above a 3 on the [Presentation Rubric](http://make.sc/presentation-rubric), [Investor Pitch Deck format](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_52)
 
 
 ### Tips
