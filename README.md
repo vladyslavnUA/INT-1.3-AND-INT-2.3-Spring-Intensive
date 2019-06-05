@@ -12,7 +12,7 @@ Weeks to Completion:  1.3 <br>
 Total Seat Hours:  35 hours <br>
 Total Out-of-Class Hours: 25 hours <br>
 Total Hours: 60 hours <br>
-Units:  1 unit <br>
+Units:  2 units <br>
 Delivery Method:  Residential <br>
 Class Sessions:  10 classes
 
