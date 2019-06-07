@@ -27,6 +27,8 @@ Students by the end of the course will be able to ...
 1. Build and ship an app or product in your language concentration
 1. Explain the value of your product via a product pitch
 1. Provide and receive constructive feedback on your app idea, designs, and code
+1. Scope your product effectively
+1. Ship products efficiently
 
 ## [Schedule](https://calendar.google.com/calendar/b/1/r/week/2019/3/21?tab=mc)
 
