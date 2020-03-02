@@ -44,8 +44,8 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 | | 10:00 am-10:50am | [Shipping Is A Superpower]      |
 | **Monday, 3/23**     | 9:30 am-9:55am | Checkin Standup                   |
 | | 10:00 am-10:50am | [User Testing]                                 |
-| **Tuesday, 3/26**    | 9:30 am-9:55am | Checkin Standup                   |
-|     | 10:00am-12:00pm  | Pitch Presentations                   |
+| **Tuesday, 3/24**    | 9:30 am-9:55am | Checkin Standup                   |
+| **Wednesday, 3/25**    | 10:00am-12:00pm  | Pitch Presentations                   |
 
 [Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
 [Team Formation]: Lessons/02-team-formation.md
