@@ -65,6 +65,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 To pass this course you must meet the following requirements:
 
 - Attend all class sessions
+- Get your Project Proposal approved on Monday: juniors ([template](https://docs.google.com/document/d/1ZOtQ1-SQTzo_kaaLKjonuwLuui2a-7KcgaHjXzdAmYg/edit)), senior ([template](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit))
 - Meet the project requirements and score minimums as shown in the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
 - Present your pitch using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
 
