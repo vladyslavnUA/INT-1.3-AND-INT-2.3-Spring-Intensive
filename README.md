@@ -2,6 +2,8 @@
 
 ## Course Description ([Course Tracker](https://docs.google.com/spreadsheets/d/1VwXNWcWpcLQuZCEwvPO1_W0JiarsNiL0nBzUZZEyAGQ/edit#gid=0))
 
+## Proposal Approvals and Office Hours: [make.sc/int-help-portal](make.sc/int-help-portal)
+
 Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Spring Intensive 1 the focus is on user testing, shipping products as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with a Demo Night in which each student pitches their product to their classmates, industry professionals and recruiters.
 
 **INT 1.3 Spring Intensive 1** is for Juniors while **INT 2.3 Spring Intensive 2** is for Seniors. Students will work on similar skills with different evaluation criteria and expectations.
@@ -39,7 +41,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 | **Tuesday, 3/17**    | 9:30 am-9:55am | Checkin Standup                   |
 | |  10:00 am-10:50am | Accessibility & Inclusive design + [Scoping your product effectively]                    |
 | **Wednesday, 3/18**  | 9:30 am-9:55am | Checkin Standup                   |
-| | 10:00 am-10:50am | [Pitching: intonation, body language, and expression]                            |
+| | 10:00 am-10:50am | Debugging with Jess                            |
 | **Thursday, 3/19**   | 9:30 am-9:55am | Checkin Standup                   |
 | | 10:00 am-10:50am | [Shipping Is A Superpower]      |
 | **Monday, 3/23**     | 9:30 am-9:55am | Checkin Standup                   |
