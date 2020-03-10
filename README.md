@@ -39,7 +39,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 |                      |  10:30-11:00am | Make School Portfolio             | 
 |                      |  11:00am-12:30pm, 1:30-5:30pm | Proposal Approval  |
 | **Tuesday, 3/17**    | 9:30 am-9:55am | Checkin Standup                   |
-| |  10:00 am-10:50am | Accessibility & Inclusive design + [Scoping your product effectively]                    |
+| |  10:00 am-10:50am | [Accessibility] + [Scoping your product effectively]                    |
 | **Wednesday, 3/18**  | 9:30 am-9:55am | Checkin Standup                   |
 | | 10:00 am-10:50am | Debugging with Jess                            |
 | **Thursday, 3/19**   | 9:30 am-9:55am | Checkin Standup                   |
@@ -51,6 +51,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 
 [Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
 [Team Formation]: Lessons/02-team-formation.md
+[Accessibility]:http://make.sc/accessibility-slides
 [Scoping your product effectively]: https://docs.google.com/presentation/d/1t6ydxhxKYdPg7R5n438EEhorI9GzJPKkVmxC5SuEtlA/edit?usp=sharing
 [Amazing Keynote Speeches]: Lessons/04-amazing-keynote-speeches.md
 [Pitching: intonation, body language, and expression]: Lessons/05-public-speaking.md
