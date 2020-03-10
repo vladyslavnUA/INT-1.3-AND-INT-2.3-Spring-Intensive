@@ -1,5 +1,7 @@
 # Spring Intensive Deliverable Proposal - Juniors
 
+## TODO: copy this file, fill it out, and push it up to your project's repo.
+
 Dates 3/16-3/25
 
 **My Name:**
