@@ -10,13 +10,11 @@ Dates 3/16-3/25
 **Project Name:** 
 
 
-**Product Option**
+**Is your project New or Old?**
 
--  New Project / Old Project
 
-**Team Option**
+**Is your project Solo or Team?**
 
-- Solo Project / Team Project
 
 ## Description
 

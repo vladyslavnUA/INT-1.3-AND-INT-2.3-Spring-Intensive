@@ -4,19 +4,17 @@
 
 Dates 3/16-3/25
 
-**My Name:**
+**My Name:** 
 
 
 **Project Name:** 
 
 
-**Product Option**
+**Is your project New or Old?**
 
--  New Project / Old Project
 
-**Team Option**
+**Is your project Solo or Team?**
 
-- Solo Project / Team Project
 
 ## Description
 
