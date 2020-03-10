@@ -68,6 +68,11 @@ Dates 3/16-3/25
 1. Goal 3
 
 
+## Wireframes
+
+**Insert wireframe pictures here**
+
+
 ## Evaluation
 
 **You must meet the following criteria in order to pass the intensive:**
