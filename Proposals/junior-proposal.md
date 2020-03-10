@@ -1,4 +1,4 @@
-# Spring Intensive Deliverable Proposal - Juniors
+# Juniors Spring Intensive Deliverable Proposal
 
 ## TODO: copy this file, fill it out, and push it up to your project's repo.
 
