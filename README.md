@@ -35,7 +35,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 
 |          Date        |    Time    |             Topics                    |
 :---------------------:|:----------:|:------------------------------:|
-| **Monday, 3/16**     |  9:30-10:30am | Opening Ceremony & Ideation        |
+| **Monday, 3/16**     |  9:30-10:30am | [Intensive Kickoff Ceremony]        |
 |                      |  10:30-11:00am | Make School Portfolio             | 
 |                      |  11:00am-12:30pm, 1:30-5:30pm | Proposal Approval  |
 | **Tuesday, 3/17**    | 9:30 am-9:55am | Checkin Standup                   |
@@ -49,6 +49,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 | **Tuesday, 3/24**    | 9:30 am-9:55am | Checkin Standup                   |
 | **Wednesday, 3/25**    | 10:00am-12:00pm  | Pitch Presentations                   |
 
+[Intensive Kickoff Ceremony]: https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.p
 [Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
 [Team Formation]: Lessons/02-team-formation.md
 [Accessibility]:http://make.sc/accessibility-slides
