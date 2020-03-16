@@ -5,66 +5,45 @@
 Dates 3/16-3/25
 
 **My Name:** 
-
+vladyslav nykoliuk
 
 **Project Name:** 
-
+web.io
 
 **Is your project New or Old?**
-
+old
 
 **Is your project Solo or Team?**
-
+team
 
 ## Description
+web.io is a javascript-built voice recognition website builder that allows users to build websites through voice recognition
 
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
+Current status: working application 
 
 ## Challenges I Anticipate
 
 **List out the challenges you anticipate for completing this project**
+enabling voice recognition to call functions from the builder.
+recognizing vital user commands through speech recognition. 
 
 ## Skateboard
 
 **ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-
+just website builder (drag and drop)
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
-
+adding voice recognition
 ## Car
 **ONE additional feature** 
-
+adding bootstrap api
 
 ## Personal Achievement Goals:
 
 **Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
-
-### Teammate 1
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 2
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 3
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 4
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
 
 ## Wireframes
 
