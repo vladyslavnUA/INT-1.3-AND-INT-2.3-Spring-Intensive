@@ -17,28 +17,35 @@ old
 team
 
 ## Description
-web.io is a javascript-built voice recognition website builder that allows users to build websites through voice recognition
+web.io is a voice recognition website builder that allows users to build websites through speech (recognition).
 
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
-Current status: working application 
+
+current status: working application with a voice recognition feature. during the intensive, we hope to implement our self-written bootstrap API and expand on voice recognition
 
 ## Challenges I Anticipate
 
 **List out the challenges you anticipate for completing this project**
-enabling voice recognition to call functions from the builder.
-recognizing vital user commands through speech recognition. 
+
+enabling voice recognition to call functions from the builder
+recognizing vital user commands through voice recognition
 
 ## Skateboard
 
 **ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-just website builder (drag and drop)
+
+implemented a functional (drag and drop) website builder with a simple, usable UI/UX
+
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+
 adding voice recognition
+
 ## Car
 **ONE additional feature** 
+
 adding bootstrap api
 
 ## Personal Achievement Goals:
@@ -49,6 +56,7 @@ adding bootstrap api
 
 **Insert wireframe pictures here**
 
+[uploading...]
 
 ## Evaluation
 
@@ -66,13 +74,13 @@ adding bootstrap api
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [ ✅] If I have a team project, I wrote this proposal to represent my work and only my work
+- [ ✅] I have completed all the necessary parts of this proposal
+- [ ✅] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> vladyslav / 03.16.20
 **Make School Advisor Name**
-> TBD
+> adam braus
