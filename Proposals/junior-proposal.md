@@ -74,6 +74,8 @@ goals:
 backend working with front-end
 create bootsrap api
 heroku deployment
+wireframe user narrative
+user guide/ tutorial
 
 
 [rubric]:https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit
