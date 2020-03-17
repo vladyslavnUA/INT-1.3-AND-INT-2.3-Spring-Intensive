@@ -70,6 +70,12 @@ adding bootstrap api
     - Each individual completes 2 of the 3 personal achievement goals from their proposal
 - Pitch your product
 
+goals:
+backend working with front-end
+create bootsrap api
+heroku deployment
+
+
 [rubric]:https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit
 
 
