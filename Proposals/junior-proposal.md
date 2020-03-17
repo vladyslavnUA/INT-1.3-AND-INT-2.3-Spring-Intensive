@@ -52,6 +52,13 @@ adding bootstrap api
 
 **Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
 
+    - Anas: Wireframe user narrative
+    - Anas: Backend
+    - Anas: Bootsrap api
+    - Vlad: Frontend
+    - Vlad: Deployment
+    - Vlad: user guide/ tutorial
+
 ## Wireframes
 
 **Insert wireframe pictures here**
@@ -70,12 +77,6 @@ adding bootstrap api
     - Each individual completes 2 of the 3 personal achievement goals from their proposal
 - Pitch your product
 
-goals:
-backend working with front-end
-create bootsrap api
-heroku deployment
-wireframe user narrative
-user guide/ tutorial
 
 
 [rubric]:https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit
