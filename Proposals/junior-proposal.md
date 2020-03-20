@@ -54,10 +54,13 @@ adding bootstrap api
 
     - Anas: Wireframe user narrative
     - Anas: Backend
-    - Anas: Bootsrap api
+    - Anas: Bootstrap API
     - Vlad: Frontend
     - Vlad: Deployment
-    - Vlad: user guide/ tutorial
+    - Vlad: User guide/ tutorial
+    - Abdul: Front-end design
+    - Abdul: Pitch
+    - Abdul: User journey
 
 ## Wireframes
 
